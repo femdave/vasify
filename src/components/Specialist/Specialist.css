@@ -1,0 +1,31 @@
+.image-grid-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.specialist-container {
+  padding: 4rem 6rem;
+}
+
+.image-grid-item {
+  width: 25%; /* Adjust as needed */
+  text-align: center;
+  padding: 10px;
+}
+
+.image-grid-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.image-grid-caption-line1 {
+  font-size: 18px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: black;
+}
+
+.image-grid-caption-line2 {
+  font-size: 12px;
+}

@@ -1,0 +1,43 @@
+.about-container {
+  padding: 4rem 6rem;
+}
+
+.content-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4rem;
+  margin-left: 4rem;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+  height: 220px;
+  justify-content: space-between;
+}
+
+.content-wrapper {
+  display: flex;
+  margin-top: 5rem;
+}
+
+.content-image-container {
+  margin-right: 8rem;
+  position: relative;
+}
+
+.rec {
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  background-color: #9bd0e5;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+
+.content-image {
+  position: relative;
+  z-index: 1;
+}

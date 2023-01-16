@@ -1,0 +1,73 @@
+.footer-container {
+  display: flex;
+  padding: 2rem 6rem;
+  background-color: #0e05ce;
+  height: 30vh;
+  color: white;
+}
+
+.box-1 {
+  width: 200px;
+  flex: 1;
+}
+
+.box-1 p {
+  margin-bottom: 1rem;
+}
+
+.instagram {
+  font-size: 2rem;
+  margin-right: 8px;
+}
+
+li {
+  list-style: none;
+  margin: 13px 0;
+}
+
+.twitter {
+  font-size: 2rem;
+}
+
+.box-2 {
+  width: 200px;
+}
+
+.box-3 {
+  width: 200px;
+}
+
+.box-4 {
+  width: 200px;
+  flex: 2;
+}
+
+.footer-container h3 {
+  margin-bottom: 1rem;
+}
+
+.footer-container p {
+  color: white;
+}
+
+.box-3 p {
+  margin: 13px 0;
+}
+
+.range {
+  width: 160px;
+  height: 30px;
+  background-color: white;
+}
+
+.range-blue {
+  width: 80px;
+  height: 30px;
+  background-color: #9bd0e5;
+  display: inline-block;
+}
+
+.range-box {
+  display: flex;
+  margin-top: 1rem;
+}

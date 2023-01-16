@@ -1,0 +1,13 @@
+.reasons-container {
+  height: 70vh;
+  background-color: #f4f3ef;
+  padding: 4rem 6rem;
+}
+
+.reasons-wrapper {
+  display: flex;
+}
+
+.reasons-text {
+  padding-right: 6rem;
+}
